@@ -1,0 +1,13 @@
+algoritmo para ir embora do senai
+
+1 Desplugar os fios do not
+2 desplugar o mouse do not
+3 limpar o not
+4 guardar os paninhos
+5 fechar o not
+6 desligar o mouse
+7 guardar o mouse e o not
+8 sentar na cadeira de novo
+9 arrumar os fios
+10 arrumar a cadeira 
+11 ir embora
